@@ -1,3 +1,2 @@
 MATLAB Programming Course
-Chapter 3
 Polynomial
